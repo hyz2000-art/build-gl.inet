@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       tag_main:
-        description: '请输入gl-inet/gl-infra-builder TAG'     
+        description: '请输入gl-inet/gl-infra-builderTAG'     
         required: true
         default: 'main' 
 
